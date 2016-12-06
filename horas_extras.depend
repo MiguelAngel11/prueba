@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480796572 source:c:\users\miguel angel\desktop\poo2016\programas\proyectos\horas_extras\horas_extras.cpp
+	<iostream>
+	"horas_extras.h"
+
+1480794142 c:\users\miguel angel\desktop\poo2016\programas\proyectos\horas_extras\horas_extras.h
+
+1480795193 source:c:\users\miguel angel\desktop\poo2016\programas\proyectos\horas_extras\main.cpp
+	<iostream>
+	"horas_extras.h"
+
